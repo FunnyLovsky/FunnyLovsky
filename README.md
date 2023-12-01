@@ -34,6 +34,6 @@ You can find me on the web:
 - [![LinkedIn](linkedin-icon.png)](Link to LinkedIn Profile)
 - [![Portfolio](website-icon.png)](Link to Portfolio Website)
 
-Feel free to reach out to me at [your_email@example.com](mailto:your_email@example.com) for collaboration or any interesting opportunities.
+Feel free to reach out to me at [funnylovsky@gmail.com](mailto:funnylovsky@gmail.com) for collaboration or any interesting opportunities.
 
 Thanks for visiting my GitHub profile! Let's create some amazing web experiences together! 🚀
