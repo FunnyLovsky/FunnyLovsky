@@ -19,15 +19,9 @@ I'm a passionate frontend developer who loves crafting interactive and user-frie
 - ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## 🛠️ Recent Projects
-- [![Project 1]()](https://podcastof.netlify.app)
-  Description of Project 1.
-
-- [![Project 2](project2.jpg)](Link to Project 2)
-  Description of Project 2.
-
-- [![Project 3](project3.jpg)](Link to Project 3)
-  Description of Project 3.
-
+- [Cloud Storage App](https://github.com/FunnyLovsky/cloud-storage-app) 
+ это веб-приложение для облачного хранилища, созданное на стеке MERN (MongoDB, Express.js, React, Node.js). Позволяет пользователям безопасно хранить, управлять и получать доступ к своим файлам из любой точки мира с подключением к интернету.
+ 
 ## Let's Connect!
 
 You can find me on the web:
