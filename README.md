@@ -1,5 +1,3 @@
-![Funny_lovsky's Banner](banner.jpg)
-
 # Hi there, I'm Funny_lovsky! 👋
 
 I'm a passionate frontend developer who loves crafting interactive and user-friendly web experiences. With a background in React, Redux, TypeScript/JavaScript, SASS/LESS, and Webpack, I'm committed to building elegant and efficient solutions.
