@@ -25,8 +25,7 @@ I'm a passionate frontend developer who loves crafting interactive and user-frie
 ## Let's Connect!
 
 You can find me on the web:
-- [![LinkedIn](linkedin-icon.png)](Link to LinkedIn Profile)
-- [![Portfolio](website-icon.png)](Link to Portfolio Website)
+- [Telegram](https://t.me/funny_lovsky)
 
 Feel free to reach out to me at [funnylovsky@gmail.com](mailto:funnylovsky@gmail.com) for collaboration or any interesting opportunities.
 
